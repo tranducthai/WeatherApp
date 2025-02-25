@@ -3,7 +3,7 @@
 A Weather App Flutter project.
 
 ## API
-This repo use two API:
+This repo use two API:<br>
  -https://openweathermap.org/api<br>
  -https://www.visualcrossing.com/weather-api/<br>
 
