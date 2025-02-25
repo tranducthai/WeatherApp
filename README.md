@@ -1,6 +1,11 @@
 # WeatherApp
 
-A new Flutter project.
+A Weather App Flutter project.
+
+## API
+This repo use two API:
+-https://openweathermap.org/api
+-https://www.visualcrossing.com/weather-api/
 
 ## Getting Started
 
