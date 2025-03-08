@@ -2,6 +2,12 @@
 
 A Weather App Flutter project.
 
+## Demo
+![image](https://github.com/user-attachments/assets/d43f04c3-3599-4584-b8f7-1fcd96b2e5fb)
+![image](https://github.com/user-attachments/assets/1a53c8e9-854e-469c-b4c4-ee96d9ac62ea)
+
+
+
 ## API
 This repo use two API:<br>
  -https://openweathermap.org/api<br>
