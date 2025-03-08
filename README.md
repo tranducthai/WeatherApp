@@ -3,8 +3,10 @@
 A Weather App Flutter project.
 
 ## Demo
-![image](https://github.com/user-attachments/assets/d43f04c3-3599-4584-b8f7-1fcd96b2e5fb)
-![image](https://github.com/user-attachments/assets/1a53c8e9-854e-469c-b4c4-ee96d9ac62ea)
+<img width="184" alt="image" src="https://github.com/user-attachments/assets/8d82f547-e9dd-4905-a354-92c60392b771" />
+
+<img width="186" alt="image" src="https://github.com/user-attachments/assets/9f190597-8ef0-4207-9308-c4a7ad244040" />
+
 
 
 
