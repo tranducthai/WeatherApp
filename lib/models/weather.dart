@@ -1,6 +1,6 @@
 import 'package:flutter/cupertino.dart';
 
-class Weather with ChangeNotifier {
+class Weather  {
   final double temp;
   final double tempMax;
   final double tempMin;
