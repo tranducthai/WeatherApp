@@ -14,7 +14,6 @@ import '../helper/utils.dart';
 class WeatherProvider with ChangeNotifier {
   String apiKey = 'e7704bc895b4a8d2dfd4a29d404285b6';
   Weather weather = Weather.empty();
-  //late AdditionalWeatherData additionalWeatherData;
   LatLng? currentLocation;
   List<HourlyWeather> hourlyWeather = [];
   List<DailyWeather> dailyWeather = [];
