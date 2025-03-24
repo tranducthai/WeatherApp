@@ -209,8 +209,6 @@ try {
       if (geocodeData == null) throw Exception('Unable to Find Location');
       await getCurrentWeather(geocodeData.latLng);
       await getDailyWeather(geocodeData.latLng);
-      // replace location name with data from geocode
-      // because data from certain lat long might return local area name
       weather.city = geocodeData.name;
       weather.country=geocodeData.country;
     } catch (e) {
